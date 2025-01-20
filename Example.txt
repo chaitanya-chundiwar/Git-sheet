@@ -1,0 +1,15 @@
+# Git, GitHub
+
+**Git** : Git is an open-source, distributed version control system that helps you manage programming codes, documents, or other files on a computer in an organized and efficient manner, allows for easy collaboration with multiple groups of people in an organization 
+
+1. **Remote Repository**
+
+examples: **GitHub, Bitbucket, Bitbucket Server, GitLab, or Azure DevOps**
+
+GitHub is a example of remote repository hosting service
+
+1. **Local Repository** :  locally storing files like storing in own computer 
+2. **Staging Area : S**taging area in Git is an intermediate storage area between your working directory and the Git repository, When you add files using 'git add', they move to the staging area, allowing you to selectively choose which modifications you want to commit
+3. **Working  Directory : W**orking directory in Git is your local project folder where you actually work on your files, nothing added to commit but untracked files present (use "git add" to track) are calle working directory
+
+*Commands* : 1) git init : initializing the repo    
